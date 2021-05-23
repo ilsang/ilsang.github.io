@@ -1,3 +1,8 @@
+layout: post
+title: "POST TITLE"
+date: 2021-05-23 16:24:00 -0000
+categories: CATEGORY-1 CATEGORY-2
+
 ---
 title: "Welcome to Jekyll!"
 date: 2017-10-20 08:26:28 -0400
